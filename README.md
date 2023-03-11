@@ -81,8 +81,7 @@ const HUNG DAO = {
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://instagram.com/_xhungdao"><img src="https://img.shields.io/badge/-@im._.feng-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-@jarvis.ejr-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://instagram.com/_xhungdao"><img src="https://img.icons8.com/fluency/1x/instagram-new.png"/></a>
 </p>
 
 -----
