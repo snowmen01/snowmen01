@@ -38,12 +38,10 @@ const HUNG DAO = {
   },
   frameworks: {
       frontend: ["ReactJS"],
-      backend: ["NodeJs", "Laravel", "CakePHP"]
+      backend: ["NodeJs", "Laravel"]
   },
-  databases: ["mysql", "postgreSQL", "mssql"],
-  game_engines: ["unity"],
+  databases: ["mysql","mssql"],
   other: ["linux", "git", "nginx"]
-  
 }
 ```
 <hr>
