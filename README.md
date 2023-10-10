@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="color: #538c8e; font-size:30px; font-weight: 600">
   Đào Xuân Hùng
 </p>	
 <img src="./waves.svg" width="100%" height="150">
